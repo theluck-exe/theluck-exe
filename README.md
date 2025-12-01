@@ -16,11 +16,11 @@
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Python & React Js
+- 🌱 I’m currently learning Python & ML
 
 - 📝 I regularly write 
 
-- 💬 Ask me about **Html & Embedded Systems**
+- 💬 Ask me about **Quantum Physics**
 
 - 📫 How to reach me **thilak.1022@gmail.com**
 
